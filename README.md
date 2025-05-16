@@ -50,9 +50,9 @@ I'm a passionate developer who loves building things with code. From frontend in
 
 ## 📫 Let's Connect!
 
-- 📧 Email: [your.email@example.com](mailto:majgianyabidur02@gmail.com)  
+- 📧 Email: [majgianyabidur02@gmail.com](mailto:majgianyabidur02@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/bidurmajgainya)  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+ 
 
 
 ---
