@@ -52,7 +52,7 @@ I'm a passionate developer who loves building things with code. From frontend in
 ## 📫 Let's Connect!
 
 - 📧 Email: [majgianyabidur02@gmail.com](mailto:majgianyabidur02@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/](https://linkedin.com/in/bidurmajgainya)  
+- 💼 LinkedIn: [linkedin.com/](https://www.linkedin.com/in/bidur-majgianya-196318248/)  
  
 
 
