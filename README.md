@@ -26,15 +26,6 @@ I'm a Junior Software Engineer who loves building things with code. From fronten
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bidurmajgainya&show_icons=true&theme=github_dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bidurmajgainya&layout=compact&theme=github_dark" height="180" />
-</p>
-
----
-
 ## 🔭 Currently Focusing On
 
 - 🚀 Full-Stack Development with **ASP.NET Core + React**
