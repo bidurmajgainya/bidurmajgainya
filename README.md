@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Bidur Majgainya
 
-I'm a passionate developer who loves building things with code. From frontend interfaces to backend logic, I enjoy bringing ideas to life with clean, efficient, and modern solutions.
+I'm a Junior software  Engineer who loves building things with code. From frontend interfaces to backend logic, I enjoy bringing ideas to life with clean, efficient, and modern solutions.
 
 - 🧠 Always learning something new  
 - 🛠️ Focused on writing code that not only works but makes sense  
